@@ -1,0 +1,27 @@
+body {
+    background-color: rgba(240, 248, 255, 0.925);
+}
+
+form {
+    text-align: center;
+    background-color: white;
+    width: 500px;
+    align-content: center;
+}
+
+.btn {
+    font-weight: 700;
+    border-radius: 300px;
+    text-transform: uppercase;
+}
+
+.btn-danger {
+    background-color: #f05f44;
+    border-color: #f05f44;
+}
+
+.btn-danger:hover {
+    background-color: #ee4b88;
+    border-color: #ee4b88;
+    border-width: 4px;
+}
